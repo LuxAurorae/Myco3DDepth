@@ -1,0 +1,10 @@
+Mycelium 3D Depth network computational array - Ver 0.1 - Extremely rough draft/idea I came up for funsies.
+
+My idea is a Cube, or other third dimensional shape of soil or other similar substrate which contains a mycelium network throughout. In order to gather information and communicate with this network, electrodes coated in carbon nano tubes
+or gold to prevent corrosion are inserted at varying depths (Thousands of electrodes would be necessary, likely in the 100s of thousands or more) these electrodes can then detect a full network of mycelium allowing for much richer data
+and density than previously seen.
+
+In order to keep the substrate together, a mesh or similar substance could coat the entire object/cube/third dimensional mycelium network, this would allow for the electrodes to be probed into the mycelium network while keeping the 
+structure intact. 
+
+I will also include my incredible drawing skills for demonstration and visual aid, I chose a cube as that is a stable shape for substrate outside of the ground.
